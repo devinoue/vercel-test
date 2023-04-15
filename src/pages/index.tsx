@@ -1,4 +1,4 @@
-import { MinusIcon } from "@/components/Icons/MinusIcon";
+import { MinusIcon } from "@/components/Icons";
 
 export default function Home() {
   return (
